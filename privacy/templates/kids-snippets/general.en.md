@@ -1,0 +1,1 @@
+The Application is **not intended for children under the age of 13** and does not knowingly collect data from this age group. If you become aware that a child has provided any data through the Application, please contact the developer — the data will be deleted.

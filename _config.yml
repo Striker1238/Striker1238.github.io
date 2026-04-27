@@ -1,0 +1,10 @@
+title: Striker1238
+description: Public pages — privacy policies and other documents.
+theme: jekyll-theme-cayman
+
+exclude:
+  - README.md
+  - privacy/README.md
+  - privacy/New-Policy.ps1
+  - privacy/templates
+  - "**/project.json"
